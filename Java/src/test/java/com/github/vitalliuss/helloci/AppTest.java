@@ -20,5 +20,4 @@ public class AppTest {
 	public void testShouldBeFailed() {
 		assertTrue(true);
 	}
-	
 }
